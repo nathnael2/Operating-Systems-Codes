@@ -1,0 +1,6 @@
+C:\Users\Nathnael\Documents\Loyola\COMP 374\HW2\obj\Debug\Homework3.csprojResolveAssemblyReference.cache
+C:\Users\Nathnael\Documents\Loyola\COMP 374\HW2\bin\Debug\Homework3.exe.config
+C:\Users\Nathnael\Documents\Loyola\COMP 374\HW2\bin\Debug\Homework3.exe
+C:\Users\Nathnael\Documents\Loyola\COMP 374\HW2\bin\Debug\Homework3.pdb
+C:\Users\Nathnael\Documents\Loyola\COMP 374\HW2\obj\Debug\Homework3.exe
+C:\Users\Nathnael\Documents\Loyola\COMP 374\HW2\obj\Debug\Homework3.pdb
